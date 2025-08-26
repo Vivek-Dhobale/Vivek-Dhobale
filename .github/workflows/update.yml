@@ -14,7 +14,7 @@ jobs:
       - name: Update GitHub Stats
         uses: anuraghazra/github-readme-stats@latest
         with:
-          username: VivekDhobale
+          username: VivekDhobale-VivekXploit
           repo: VivekDhobale-VivekXploit
           cache_seconds: 1800
 
