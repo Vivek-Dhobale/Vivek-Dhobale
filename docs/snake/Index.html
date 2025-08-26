@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>VivekXploit — Snake Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>VivekXploit Snake</h1>
+    <canvas id="game" width="400" height="400"></canvas>
+    <div class="info">
+      <div>Score: <span id="score">0</span></div>
+      <div>High Score: <span id="hi">0</span></div>
+    </div>
+    <div class="controls">
+      <button id="start">Start</button>
+      <button id="pause">Pause</button>
+      <button id="reset">Reset</button>
+    </div>
+    <p class="hint">Use arrow keys to move. Eat apples to grow. Don't hit the walls or yourself!</p>
+    <footer>Made by <strong>VivekXploit</strong></footer>
+  </div>
+  <script src="snake.js"></script>
+</body>
+</html>
