@@ -54,7 +54,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/VivekDhobale/VivekDhobale/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/VivekDhobale-VivekXploit/VivekDhobale-VivekXploit/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
