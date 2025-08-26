@@ -53,7 +53,8 @@
 ---
 
 ### 🐍 Contribution Snake
-![GitHub Snake Light](https://raw.githubusercontent.com/VivekDhobale-VivekXploit/VivekDhobale-VivekXploit/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/VivekDhobale-VivekXploit/VivekDhobale-VivekXploit/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github.com/VivekDhobale-VivekXploit/VivekDhobale-VivekXploit/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
 
 ---
