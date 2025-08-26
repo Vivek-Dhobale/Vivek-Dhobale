@@ -33,7 +33,7 @@
 
 - [🛡️ WiFi-Attack-Toolkit](https://github.com/VivekDhobale/WiFi-Attack-Toolkit)  
 - [🎙️ Jarvis Voice Assistant](https://github.com/VivekDhobale/Jarvis-Voice-Assistant)  
-- [☕ Java Data-Driven Test Automation](https://github.com/VivekDhobale/Java-DataDriven-TestAutomation)  
+- [☕ Java Data-Driven Test Automation](https://github.com/VivekDhobale-VivekXploit/Java-DataDriven-TestAutomation.git)
 
 ---
 
