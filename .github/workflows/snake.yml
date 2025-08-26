@@ -1,9 +1,10 @@
+
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # runs every 5 minutes
-  workflow_dispatch:        # allow manual run
+    - cron: "0 */6 * * *"   # Runs every 6 hours (you can change it)
+  workflow_dispatch:        # Allow manual runs
 
 jobs:
   build:
@@ -13,17 +14,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake (SVG + Dark SVG)
+      - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: VivekDhobale-VivekXploit
+          github_user_name: VivekDhobale
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
+      - name: Move files to root
+        run: |
+          mv dist/* .
+
+      - name: Commit and push snake files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          git commit -m "Updated Snake animation"
+          git push
