@@ -55,7 +55,6 @@
 
 ---
 
----
 <p align="center">
 **"Talk is cheap. Show me the code."**
 </p>
