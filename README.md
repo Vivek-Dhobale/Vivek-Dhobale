@@ -40,7 +40,7 @@
 - [🎙️ Jarvis Voice Assistant ](https://github.com/VivekDhobale-VivekXploit/Jarvis-Voice-Assistant.git)  
 - [☕ Java Data-Driven Test Automation](https://github.com/VivekDhobale-VivekXploit/Java-DataDriven-TestAutomation.git)
 
-<img src="https://github.com/VivekDhobale-VivekXploit/VivekDhobale-VivekXploit/blob/0eb8f89a8a35fbd0b5988b796983b6e28836e56f/assets/thm_propic.png">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -52,7 +52,7 @@
 
 ## 🎮 TryHackMe Progress
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VivekXploit/VivekXploit/assets/thm_propic.png">
+ <img src="https://github.com/VivekDhobale-VivekXploit/VivekDhobale-VivekXploit/blob/0eb8f89a8a35fbd0b5988b796983b6e28836e56f/assets/thm_propic.png">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
