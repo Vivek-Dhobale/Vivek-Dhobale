@@ -12,7 +12,7 @@
 - 🎯 Building **offensive & defensive security tools** and **automation frameworks**  
 - 📈 Currently learning **AI in Cybersecurity + Red Teaming**  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-dhobale-vr)
@@ -30,13 +30,13 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📂 Featured Projects
 🔗 Explore my top projects:  
 
 - [🛡️ WiFi-Attack-Toolkit](https://github.com/VivekDhobale-VivekXploit/VivekXploit_Ultimate_Attack_Toolkit.git) 
-- [🎙️ Jarvis Voice Assistant](https://github.com/VivekDhobale-VivekXploit/Jarvis-Voice-Assistant.git)  
+- [🎙️ Jarvis Voice Assistant ](https://github.com/VivekDhobale-VivekXploit/Jarvis-Voice-Assistant.git)  
 - [☕ Java Data-Driven Test Automation](https://github.com/VivekDhobale-VivekXploit/Java-DataDriven-TestAutomation.git)
 
 ---
