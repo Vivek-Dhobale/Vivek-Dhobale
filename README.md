@@ -47,7 +47,7 @@
 
 ## 🎮 TryHackMe Progress
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/VivekXploit.png?update=0">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/VivekXploit.png">
 </p>
 
 ---
