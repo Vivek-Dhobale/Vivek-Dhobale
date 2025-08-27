@@ -56,9 +56,8 @@
 ---
 
 ---
-
-**    "Talk is cheap. Show me the code."**
 <p align="center">
+**"Talk is cheap. Show me the code."**
 <a>🌱</a>
 </p>
 
