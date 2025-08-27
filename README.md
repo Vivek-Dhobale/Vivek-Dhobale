@@ -49,7 +49,7 @@
 
 ## 🎮 TryHackMe Progress
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/VivekXploit.png">
+  <img src="https://raw.githubusercontent.com/VivekXploit/VivekXploit/master/assets/thm_propic.png">
 </p>
 
 ---
