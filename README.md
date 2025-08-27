@@ -58,9 +58,10 @@
 ---
 <p align="center">
 **"Talk is cheap. Show me the code."**
+</p>
+<p align="center">
 <a>🌱</a>
 </p>
-
 ---
 
 ### 🐍 Contribution Snake
