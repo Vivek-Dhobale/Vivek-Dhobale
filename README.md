@@ -54,7 +54,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://vivekdhobale-vivekxploit.github.io/VivekDhobale-VivekXploit/" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg">
 </p>
 
 ---
