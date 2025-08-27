@@ -55,14 +55,6 @@
 
 ---
 
-<p align="center">
-**"Talk is cheap. Show me the code."**
-</p>
-<p align="center">
-<a>🌱</a>
-</p>
----
-
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg">
