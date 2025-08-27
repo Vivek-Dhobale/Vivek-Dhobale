@@ -1,8 +1,7 @@
 <p align="center"><img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif" width="200px" alt="Status GIF" />
 </p>
 
-<h2>**👋 Hi, I'm Vivek Dhobale (VivekXploit)**</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2>👋 Hi, I'm Vivek Dhobale(VivekXploit)</h2> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🚀 Ethical Hacker | 🛡️ CEHv13 Student | ⚙️ Automation Tester | 🤖 AI & Cybersecurity Enthusiast  
 
