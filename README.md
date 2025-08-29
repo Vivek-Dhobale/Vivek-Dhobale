@@ -53,7 +53,7 @@
 
 ## 🎮 TryHackMe Progress
 <p align="center">
- <img src="https://github.com/VivekDhobale-VivekXploit/VivekDhobale-VivekXploit/blob/0eb8f89a8a35fbd0b5988b796983b6e28836e56f/assets/thm_propic.png">
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4599040" style='border:none;'></iframe>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
