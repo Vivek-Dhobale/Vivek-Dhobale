@@ -52,7 +52,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 💻 TryHackMe Labs
+## 🛡️ TryHackMe Progress
 <p align="center">
 <a href="https://tryhackme.com/p/VivekXploit">
   <img src="https://tryhackme-badges.s3.amazonaws.com/VivekXploit.png" width="200">
