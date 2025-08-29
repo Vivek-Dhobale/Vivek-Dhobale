@@ -54,8 +54,9 @@
 
 ## My Cybersecurity Progress
 
-[![](https://tryhackme-badges.s3.amazonaws.com/VivekXploit.png)](https://tryhackme.com/p/VivekXploit)
-
+<a href="https://tryhackme.com/p/yourusername">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/yourusername.png" width="200">
+</a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
