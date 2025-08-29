@@ -55,7 +55,7 @@
 ## My Cybersecurity Progress
 
 <a href="https://tryhackme.com/p/yourusername">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/yourusername.png" width="200">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/VivekXploit.png" width="200">
 </a>
 
 
