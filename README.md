@@ -53,7 +53,7 @@
 
 ## 🎮 TryHackMe Progress
 <p align="center">
- <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4599040" style='border:none;'>
+<img src="<iframe src='https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4599040' style='border:none;'></iframe>">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
