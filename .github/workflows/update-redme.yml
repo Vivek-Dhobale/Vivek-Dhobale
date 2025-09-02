@@ -15,14 +15,14 @@ jobs:
       - name: Generate GitHub Stats
         uses: anuraghazra/github-readme-stats@latest
         with:
-          username: VivekDhobale-VivekXploit
+          username: Vivek-Dhobale
           show_icons: true
           theme: radical
 
       - name: Generate GitHub Streak
         uses: DenverCoder1/github-readme-streak-stats@latest
         with:
-          username: VivekDhobale-VivekXploit
+          username: Vivek-Dhobale
           theme: radical
 
       - name: Commit & Push
