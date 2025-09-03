@@ -43,7 +43,7 @@
 - [🎙️ Jarvis Voice Assistant ](https://github.com/Vivek-Dhobale/Jarvis-Voice-Assistant.git)  
 - [☕ Java Data-Driven Test Automation](https://github.com/Vivek-Dhobale/Java-DataDriven-TestAutomation.git)
 - [📚 Ultimate Wordlist Generator](https://github.com/Vivek-Dhobale/Ultimate_Wordlist_Generator.git)
-- [📚 Ethical Hacking Toolkit](https://github.com/Vivek-Dhobale/Ultimate_Wordlist_Generator.git)
+- [📚 Ethical Hacking Toolkit](https://github.com/Vivek-Dhobale/Ethical_Hacking_Toolkit.git)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
