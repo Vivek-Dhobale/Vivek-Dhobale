@@ -59,7 +59,7 @@
 ## 🛡️ TryHackMe Progress
 <p align="center">
 <a href="https://tryhackme.com/p/VivekXploit">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/VivekXploit.png" alt="Your Image Badge" width=200px />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/VivekXploit.png?update=2" alt="Your Image Badge" width=200px />
 </a>
   <br>
 🕵️‍♂️ Visit my profile 🕵️‍♂️
