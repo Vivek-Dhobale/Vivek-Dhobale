@@ -38,14 +38,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📂 Featured Projects
-🔗 Explore my top projects:  
+## 👨‍💻 Featured Projects  
 
-- [🛡️ WiFi-Attack-Toolkit](https://github.com/Vivek-Dhobale/VivekXploit_Ultimate_Attack_Toolkit.git) 
-- [🎙️ Jarvis Voice Assistant ](https://github.com/Vivek-Dhobale/Jarvis-Voice-Assistant.git)  
-- [☕ Java Data-Driven Test Automation](https://github.com/Vivek-Dhobale/Java-DataDriven-TestAutomation.git)
-- [📚 Ultimate Wordlist Generator](https://github.com/Vivek-Dhobale/Ultimate_Wordlist_Generator.git)
-- [🕵️‍♂️ Ethical Hacking Toolkit](https://github.com/Vivek-Dhobale/Ethical_Hacking_Toolkit.git)
+<p align="center">
+  <img src="https://github.com/Vivek-Dhobale/Vivek-Dhobale/blob/main/assets/hello-world.gif" width="500" alt="Hello World Laptop Animation">
+</p>
+
+Here are some of my top projects you can explore 🚀  
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🛡️ **WiFi Attack Toolkit** | A powerful toolkit for Wi-Fi security testing and pentesting. | [🔗 View Repo](https://github.com/Vivek-Dhobale/VivekXploit_Ultimate_Attack_Toolkit.git) |
+| 🎙️ **Jarvis Voice Assistant** | An AI-powered personal assistant with voice commands. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Jarvis-Voice-Assistant.git) |
+| ☕ **Java Data-Driven Test Automation** | Framework for automated testing using Java & TestNG. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Java-DataDriven-TestAutomation.git) |
+| 📚 **Ultimate Wordlist Generator** | Generate custom wordlists for ethical hacking & testing. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Ultimate_Wordlist_Generator.git) |
+| 🕵️‍♂️ **Ethical Hacking Toolkit** | A complete set of tools for cybersecurity research. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Ethical_Hacking_Toolkit.git) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
