@@ -39,7 +39,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 Featured Projects  
-
+<p align="center">
+  <img src="https://github.com/Vivek-Dhobale/Vivek-Dhobale/blob/main/assets/helloworld.gif" width="500" alt="Hello World Laptop Animation">
+</p>
 
 Here are some of my top projects you can explore 🚀  
 
