@@ -40,9 +40,6 @@
 
 ## 👨‍💻 Featured Projects  
 
-<p align="center">
-  <img src="https://github.com/Vivek-Dhobale/Vivek-Dhobale/blob/main/assets/helloworld.gif" width="500" alt="Hello World Laptop Animation">
-</p>
 
 Here are some of my top projects you can explore 🚀  
 
