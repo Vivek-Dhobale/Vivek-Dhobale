@@ -41,7 +41,7 @@
 ## 👨‍💻 Featured Projects  
 
 <p align="center">
-  <img src="https://github.com/Vivek-Dhobale/Vivek-Dhobale
+  <img src="https://github.com/Vivek-Dhobale
 /7587df77ef521cf98057d0028ee983f1.gif" width="500" alt="Hello World Laptop Animation">
 </p>
 
