@@ -38,16 +38,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-## 🌐 Featured Website
+## 🌐 Featured Page
 
 <p align="center">
   <a href="https://vivek-dhobale.github.io/AI-Gen-tools-pack/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Page-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
   </a>
 </p>✨ AI Gen Tools Pack
-A complete multi-tools website AI-powered utilities including image converters, calculators, text utilities, SEO tools, and more.
+A complete multi-tools Page Genrated using AI. utilities including image converters, calculators, text utilities, SEO tools, and more.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
