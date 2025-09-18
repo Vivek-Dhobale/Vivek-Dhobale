@@ -83,11 +83,5 @@ Here are some of my top projects you can explore 🚀
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">My GitHub Stats 📊</h2>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vivek-Dhobale&show_icons=true&theme=dracula&count_private=true" />
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Vivek-Dhobale&theme=dracula" />
-  </a>
-</div>
+
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek-Dhobale)](https://github.com/anuraghazra/github-readme-stats)
