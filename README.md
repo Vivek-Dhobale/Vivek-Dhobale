@@ -8,7 +8,7 @@
 🚀 Ethical Hacker | 🛡️ CEHv13 Student | ⚙️ Automation Tester | 🤖 AI & Cybersecurity Enthusiast  
 
 
-## 🔥 About Me
+<h2 align="center"> 🔥About Me</h2>
 - 💻 Passionate about **Ethical Hacking, Cybersecurity, and Automation Testing**  
 - 🧑‍💻 Skilled in **Python, Selenium, Playwright, Java, Kali Linux, Wireshark, Burp Suite, Nmap**  
 - 🎯 Building **offensive & defensive security tools** and **automation frameworks**  
@@ -16,12 +16,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Socials:
+<h2 align="center"> 🌐 Socials</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-dhobale-vr)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/vivekDhobale)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivek.m.dhobale@gmail.com)
 
-## 🧰 Knowledge & Skills
+<h2 align="center"> 🧰 Knowledge & Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -39,7 +39,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🌐 Featured Page
+<h2 align="center">🌐 Featured Page</h2>
 
 <p align="center">
   <a href="https://vivek-dhobale.github.io/AI-Gen-tools-pack/" target="_blank">
@@ -50,7 +50,7 @@ A complete multi-tools Page Genrated using AI. utilities including image convert
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 Featured Projects  
+<h2 align="center"> 👨‍💻 Featured Projects</h2>  
 
 Here are some of my top projects you can explore 🚀  
 
@@ -64,7 +64,7 @@ Here are some of my top projects you can explore 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛡️ TryHackMe Progress
+ <h2 align="center">🛡️ TryHackMe Progress</h2>
 <p align="center">
 <a href="https://tryhackme.com/p/VivekXploit">
   <img src="https://tryhackme-badges.s3.amazonaws.com/VivekXploit.png?update=2" alt="Your Image Badge" width=200px />
