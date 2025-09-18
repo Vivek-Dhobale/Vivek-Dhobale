@@ -18,10 +18,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center"> 🌐 Socials</h2>
-
+<p align="center">
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-dhobale-vr)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/vivekDhobale)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivek.m.dhobale@gmail.com)
+</p>
 
 <h2 align="center"> 🧰 Knowledge & Skills</h2>
 <p align="center">
@@ -47,8 +49,9 @@
   <a href="https://vivek-dhobale.github.io/AI-Gen-tools-pack/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Page-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
   </a>
-</p>✨ AI Gen Tools Pack
+✨ AI Gen Tools Pack
 A complete multi-tools Page Genrated using AI. utilities including image converters, calculators, text utilities, SEO tools, and more.
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
