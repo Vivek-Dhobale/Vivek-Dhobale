@@ -9,6 +9,7 @@
 
 
 <h2 align="center"> 🔥About Me</h2>
+
 - 💻 Passionate about **Ethical Hacking, Cybersecurity, and Automation Testing**  
 - 🧑‍💻 Skilled in **Python, Selenium, Playwright, Java, Kali Linux, Wireshark, Burp Suite, Nmap**  
 - 🎯 Building **offensive & defensive security tools** and **automation frameworks**  
@@ -17,6 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center"> 🌐 Socials</h2>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-dhobale-vr)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/vivekDhobale)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivek.m.dhobale@gmail.com)
