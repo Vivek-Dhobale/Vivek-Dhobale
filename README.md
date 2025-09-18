@@ -64,11 +64,7 @@ Here are some of my top projects you can explore 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-Dhobale&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Dhobale&layout=compact&theme=radical" height="180em"/>
-</p>
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek-Dhobale&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&hide_title=false&rank_icon=github&show=prs_merged,prs_merged_percentage&token=PAT_1)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
