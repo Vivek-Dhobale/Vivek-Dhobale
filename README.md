@@ -75,13 +75,11 @@ Here are some of my top projects you can explore 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🐍 Contribution Snake
+<h2 align="center"> 🐍 Contribution Snake </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">My GitHub Stats 📊</h2>
 
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek-Dhobale)](https://github.com/anuraghazra/github-readme-stats)
