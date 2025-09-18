@@ -5,8 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vivek+Dhobale!;" />
 </h1>
 
-🚀 Ethical Hacker | 🛡️ CEHv13 Student | ⚙️ Automation Tester | 🤖 AI & Cybersecurity Enthusiast  
-
+<p align="center">🚀 Ethical Hacker | 🛡️ CEHv13 Student | ⚙️ Automation Tester | 🤖 AI & Cybersecurity Enthusiast  
+</p>
 
 <h2 align="center"> 🔥About Me</h2>
 
