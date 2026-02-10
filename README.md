@@ -5,15 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vivek+Dhobale!;" />
 </h1>
 
-<p align="center">🚀 Ethical Hacker | 🛡️ CEHv13 Student | ⚙️ Automation Tester | 🤖 AI & Cybersecurity Enthusiast  
+<p align="center">| 🛡️Data Analyst | ⚙️ Automation Tester | 🤖 AI & Data Science Enthusiast  
 </p>
 
 <h2 align="center"> 🔥About Me</h2>
 
-- 💻 Passionate about **Ethical Hacking, Cybersecurity, and Automation Testing**  
-- 🧑‍💻 Skilled in **Python, Selenium, Playwright, Java, Kali Linux, Wireshark, Burp Suite, Nmap**  
-- 🎯 Building **offensive & defensive security tools** and **automation frameworks**  
-- 📈 Currently learning **AI in Cybersecurity + Red Teaming**  
+- 💻 Passionate about **Ethical Hacking, Data Science, and Automation Testing**  
+- 🧑‍💻 Skilled in **Python, Pandas, Numpy, Selenium, Playwright, Java, Kali Linux, Wireshark, Burp Suite, Nmap**  
+- 🎯 Building **offensive & defensive security tools** performed  **Data Analytics** and build**automation projects**  
+- 📈 Currently learning **AI and Data Science**  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
