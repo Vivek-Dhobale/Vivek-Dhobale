@@ -12,7 +12,7 @@
 
 - 💻 Passionate about **Ethical Hacking, Data Science, and Automation Testing**  
 - 🧑‍💻 Skilled in **Python, Pandas, Numpy, Selenium, Playwright, Java, Kali Linux, Wireshark, Burp Suite, Nmap**  
-- 🎯 Building **offensive & defensive security tools** performed  **Data Analytics** and build**automation projects**  
+- 🎯 Building **offensive & defensive security tools** performed  **Data Analytics** and build **automation projects**  
 - 📈 Currently learning **AI and Data Science**  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
