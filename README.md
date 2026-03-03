@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vivek+Dhobale!;" />
 </h1>
 
-<p align="center">🛡️Data Analyst | ⚙️ Automation Tester | 🤖 AI & Data Science Enthusiast  
+<p align="center">🛡️Data Enginner | ⚙️ Automation Tester | 🤖 AI & Data Science Enthusiast  
 </p>
 
 <h2 align="center"> 🔥About Me</h2>
@@ -42,32 +42,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2 align="center"> 👨‍💻 Top Learings </h2>  
 
-<h2 align="center">🌐 Featured Page</h2>
-
-<p align="center">
-  <a href="https://vivek-dhobale.github.io/AI-Gen-tools-pack/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Page-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
-  </a>
-</p>
-<p align="center">✨ AI Gen Tools Pack
-A complete multi-tools Page Genrated using AI. utilities including image converters, calculators, text utilities, SEO tools, and more.
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center"> 👨‍💻 Featured Projects</h2>  
-
-Here are some of my top projects you can explore 🚀  
+Here are some of my top Learning you can explore 🚀  
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🛡️ **WiFi Attack Toolkit** | A powerful toolkit for Wi-Fi security testing and pentesting. | [🔗 View Repo](https://github.com/Vivek-Dhobale/VivekXploit_Ultimate_Attack_Toolkit.git) |
+| 🛡️ **NumPy** |A complete set of NumPy basic to advaced.. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Numpy_Tutorials.git) |
 | 🎙️ **Jarvis Voice Assistant** | An AI-powered personal assistant with voice commands. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Jarvis-Voice-Assistant.git) |
 | ☕ **Java Data-Driven Test Automation** | Framework for automated testing using Java & TestNG. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Java-DataDriven-TestAutomation.git) |
-| 📚 **Ultimate Wordlist Generator** | Generate custom wordlists for ethical hacking & testing. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Ultimate_Wordlist_Generator.git) |
-| 🕵️‍♂️ **Ethical Hacking Toolkit** | A complete set of tools for cybersecurity research. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Ethical_Hacking_Toolkit.git) |
+| 📚 **Tic_Tac_Toe** | Tic Tac Toe game gives better beginner friendly experience. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Tic_Tac_Toe.git) |
+| 🕵️‍♂️ **Pandas** | A complete set of Pandas basic to advaced. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Pandas-Tutorials.git) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
