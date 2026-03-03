@@ -48,11 +48,11 @@ Here are some of my top Learning you can explore 🚀
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🛡️ **NumPy** |A complete set of NumPy basic to advaced.. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Numpy_Tutorials.git) |
+| 🛡️ **NumPy** |A complete pactical set of my learnings of NumPy basic to advaced.. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Numpy_Tutorials.git) |
 | 🎙️ **Jarvis Voice Assistant** | An AI-powered personal assistant with voice commands. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Jarvis-Voice-Assistant.git) |
 | ☕ **Java Data-Driven Test Automation** | Framework for automated testing using Java & TestNG. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Java-DataDriven-TestAutomation.git) |
 | 📚 **Tic_Tac_Toe** | Tic Tac Toe game gives better beginner friendly experience. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Tic_Tac_Toe.git) |
-| 🕵️‍♂️ **Pandas** | A complete set of Pandas basic to advaced. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Pandas-Tutorials.git) |
+| 🕵️‍♂️ **Pandas** | A complete set of my learnings of Pandas basic to advaced. | [🔗 View Repo](https://github.com/Vivek-Dhobale/Pandas-Tutorials.git) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
